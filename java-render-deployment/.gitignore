@@ -27,7 +27,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-# Ignore target directory but not the JAR file
-target/*
-!target/*.jar
